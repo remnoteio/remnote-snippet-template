@@ -3,7 +3,7 @@
   "id": "snippet_template",
   "name": "Snippet Template",
   "author": "remnote",
-  "repoUrl": "",
+  "repoUrl": "https://www.google.com",
   "version": {
     "major": 0,
     "minor": 0,
@@ -16,7 +16,7 @@
   "requiredScopes": [
     {
       "type": "All",
-      "level": "Read"
+      "level": "ReadCreateModify"
     }
   ]
 }
